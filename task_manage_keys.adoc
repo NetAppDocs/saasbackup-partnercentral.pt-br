@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_keys.html 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: Você pode adicionar e gerenciar chaves para maior segurança no Partner Central. 
+---
+= Gerenciar chaves
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode adicionar e gerenciar chaves para maior segurança na Central de parceiros a partir da configuração *Key Management*.
+
+
+
+== Adicionar teclas
+
+.Passos
+. No painel, clique image:settings_icon.png["ícone de definições"]em .
+. Selecione *Key Management* no menu suspenso.
++
+image:settings_key_management.png["gerenciamento de chaves do menu suspenso configurações"]
+
+. Para adicionar uma chave, clique image:add_key_icon.png["adicionar ícone de chave"]em .
++
+image:key_management_screen.png["ecrã de gestão de chaves"]
+
+. Em *Add Key*, faça o seguinte:
++
+image:add_key_screen.png["ecrã add key (adicionar chave)"]
+
++
+.. Selecione o utilizador.
+.. Adicione uma descrição.
+.. Selecione Expiry (expiração)
+.. Clique em *Add*. Uma caixa aparece com a mensagem "gerou a chave com êxito".
+
+
+. Clique image:eye_show_key_icon.png["mostrar ícone de chave"] para mostrar a chave não encriptada e clique image:eye_hide_key_icon.png["ocultar ícone de chave"] para ocultar a chave não encriptada.
+

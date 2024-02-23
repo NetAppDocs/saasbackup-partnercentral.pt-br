@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_new.html 
+keywords: 'what"s new, features, new, release notes, enhancements' 
+summary: O SaaS Backup Partner Central apresenta regularmente uma nova versão para oferecer novos recursos, aprimoramentos e correções de bugs. 
+---
+= Novos recursos e atualizações
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Os novos recursos e atualizações a seguir foram adicionados a esta versão da Central de parceiros de backup SaaS da NetApp.
+
+Vá para a visualização *Novidades* no painel do Partner Central para ver um feed de novas atualizações, vídeos de instruções e informações sobre a integridade dos seus serviços.
+
+image:whats_new.png["o que há de novo"]

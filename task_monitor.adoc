@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: Você pode monitorar tarefas de backup, sincronização e restauração do SaaS Backup para Microsoft 365 para seus clientes no SaaS Backup Partner Central. 
+---
+= Monitorar os trabalhos do cliente
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode monitorar tarefas de backup, sincronização e restauração para seus clientes do SaaS Backup para Microsoft 365 no SaaS Backup Partner Central.
+
+.Passos
+. No painel, clique em *Monitoramento*.
++
+image:monitoring.png["página de monitorização"]
+
++
+Em *Monitoramento*, você pode ver o histórico de tarefas de seus clientes em duas guias separadas: *Trabalhos em execução* e *trabalhos concluídos*.
+
+. Pode filtrar *trabalhos em execução* e *trabalhos concluídos* por tipo de tarefa, tipo de serviço, nome de domínio e estado.
++
+.. Para filtrar por tipo de tarefa, clique em *filtro* em *tipo de tarefa* e selecione o tipo de tarefa.
++
+image:filter_job_type.png["filtrar por tipo de tarefa"]
+
++
+* Agora * os tipos de trabalho referem-se a trabalhos sob demanda.
+
+.. Para filtrar por tipo de serviço, clique em *filtro* em *tipo de serviço* e selecione o serviço.
++
+Selecione o serviço:
+
++
+*** Exchange Online
+*** OneDrive for Business
+*** SharePoint Online
+*** Grupos do Office 365
+
+
+.. Para filtrar por cliente, clique em *Filtrar* em *Nome de domínio* e selecione ou pesquise o domínio do cliente.
++
+image:filter_customer_domain.png["filtrar por domínio do cliente"]
+
+.. Para filtrar por status, clique em *Filtrar* em *Status* e selecione o status.
++
+image:filter_job_status.png["filtrar por status do trabalho"]
+
+
+
+

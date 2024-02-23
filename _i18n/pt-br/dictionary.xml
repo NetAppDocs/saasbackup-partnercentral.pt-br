@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="ec4f83a67a4298da0fd76c4e8a66dc85" category="summary">Bem-vindo ao portal de documentação da Central de parceiros do NetApp SaaS Backup.</block>
+  <block id="026434100c73bca9db8ba1db98cc3853" category="doc">Documentação da Central de parceiros de backup SaaS da NetApp</block>
+  <block id="1fcc6bcfa809f3049279857f9d1b7273" category="paragraph">A Central de parceiros de Backup SaaS da NetApp é uma interface que ajuda os parceiros da NetApp a gerenciar e oferecer suporte a clientes que usam o SaaS Backup para Microsoft 365. Ele fornece etapas para se Registrar na Central de parceiros, gerenciar seus clientes e fazer modificações nas configurações e nas informações do parceiro e do cliente.</block>
+  <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">Descubra as novidades</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="inline-link-macro">Notas de lançamento</block>
+  <block id="581ba4d54ae65da41a0053e95e169521" category="list-text"><block ref="581ba4d54ae65da41a0053e95e169521" category="inline-link-macro-rx"></block></block>
+  <block id="e92ad139d030481f83fb34bc6eb4528d" category="list-text">Para obter atualizações de produtos, vídeos de instruções e informações sobre a integridade dos seus serviços, acesse a visualização do painel *Novidades*.</block>
+  <block id="0986f01a9420777b16c71fa93baf093c" category="inline-image-macro">Partner Central *Novidades*</block>
+  <block id="b279b89b9e34c9bf7c7a5d71501ff66e" category="paragraph"><block ref="b279b89b9e34c9bf7c7a5d71501ff66e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="section-title">Comece agora</block>
+  <block id="1325c3a2cbd2cfb1824aa9cad1a621e4" category="inline-link-macro">Inscreva-se no Partner Central</block>
+  <block id="8c0bb188b1237a0ae31433c79e2f5d47" category="list-text"><block ref="8c0bb188b1237a0ae31433c79e2f5d47" category="inline-link-macro-rx"></block></block>
+  <block id="d49de289e20571eb99e4a0977115b68c" category="inline-link-macro">Adicione e gerencie clientes</block>
+  <block id="f0574eebed692d1092cfb6407b62fffc" category="list-text"><block ref="f0574eebed692d1092cfb6407b62fffc" category="inline-link-macro-rx"></block></block>
+  <block id="653316d25aae6954634e9748ba1d171b" category="section-title">Obtenha ajuda, encontre mais informações e forneça feedback</block>
+  <block id="ddea22f33f23ab329fa2d5ff93c65b59" category="list-text">Para obter acesso a diferentes recursos de suporte, acesse *suporte* na interface de usuário do Partner Central.</block>
+  <block id="b9bfbe11ded79fa1b72b327d0497f9dd" category="inline-image-macro">Página de suporte</block>
+  <block id="c347730653bac5e5156350f0c39bf931" category="paragraph"><block ref="c347730653bac5e5156350f0c39bf931" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="63f924ad6e630ef5a0e381ec521b87fe" category="paragraph">A página *suporte* fornece acesso a artigos *base de dados de Conhecimento*, *Comunidades*, *Manual do Usuário* para SaaS Backup para Microsoft 365 e *Centro de confiabilidade*. Você também pode fornecer feedback e fazer perguntas se selecionar *Contacte-nos*.</block>
+  <block id="a3a22dea39505cf4935b32a69d04577d" category="inline-link-macro">Página de produto para SaaS Backup para Microsoft 365</block>
+  <block id="1f4d712278351ffe49efbc8e9679ded6" category="list-text"><block ref="1f4d712278351ffe49efbc8e9679ded6" category="inline-link-macro-rx"></block></block>
+  <block id="898870c352488e6b16c2e7f4f8ce046e" category="inline-link-macro">Documentação do usuário do SaaS Backup para Microsoft 365</block>
+  <block id="ec7b042d6bd4940e6f703a255c3797d3" category="list-text"><block ref="ec7b042d6bd4940e6f703a255c3797d3" category="inline-link-macro-rx"></block></block>
+  <block id="9050af74f057a108465be3e32ae53b55" category="summary">Você pode obter ajuda, encontrar mais informações e fornecer feedback na interface central do parceiro de backup SaaS da NetApp.</block>
+  <block id="3cd12697cda279c9c99b093a265c1ba8" category="doc">Onde obter ajuda e encontrar mais informações</block>
+  <block id="c48e67c8ed1b729afe73f2b07da8dbcf" category="paragraph">Você pode obter ajuda e encontrar mais informações na interface central do parceiro de backup SaaS da NetApp em *suporte*.</block>
+  <block id="4039d37702fa4c09dfd731a287773e02" category="inline-image-macro">Opções de suporte</block>
+  <block id="9a8bafa7ab47e8a8a0ccee6bc95e6f2a" category="paragraph"><block ref="9a8bafa7ab47e8a8a0ccee6bc95e6f2a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="75bce0ca28fbc1ea4cfb236f4396a856" category="paragraph">*Suporte* dá acesso aos seguintes recursos:</block>
+  <block id="e3de4cbd268b6817b6b48681163f6c2a" category="list-text">*Base de Conhecimento* artigos</block>
+  <block id="1d9b4860eca37f6686bcb2792f34ee9d" category="list-text">*Comunidades*</block>
+  <block id="12b886e31e39b25111ba78c614d5d177" category="list-text">*Manual do Utilizador*</block>
+  <block id="c48730cb532534ed8ded87a7e1e63743" category="list-text">*Feedback*</block>
+  <block id="dacd72a87c9099fa5a9c737889f511f8" category="list-text">*Centro de confiança*</block>
+  <block id="0a2a5e521c0259e31bbc32ed9dd1fcd5" category="list-text">*Contacte-nos*</block>
+  <block id="9f17d538fb0b2211b606faeaf16eee09" category="summary">Uma lista de problemas e limitações conhecidos.</block>
+  <block id="2813f127dc58929fb553bc32684c2e46" category="doc">Problemas e limitações conhecidos</block>
+  <block id="90984e07fc5e2f55101ea8cc3753dd28" category="paragraph">Existe a seguinte limitação:</block>
+  <block id="06378ee42ea1246f2fdeb4263f6aab0a" category="list-text">Os parceiros não podem integrar locatários com base em permissões delegadas.</block>
+  <block id="41017f616913d94c4645396f4729b1b2" category="summary">O SaaS Backup Partner Central apresenta regularmente uma nova versão para oferecer novos recursos, aprimoramentos e correções de bugs.</block>
+  <block id="3e248cf36a6ce8d04e21a6fbb7b087f0" category="doc">Novos recursos e atualizações</block>
+  <block id="7bb8a10d97088f8bc42a3a0cb091c803" category="paragraph">Os novos recursos e atualizações a seguir foram adicionados a esta versão da Central de parceiros de backup SaaS da NetApp.</block>
+  <block id="f156b97b5fa3f266e3d0a2217380feae" category="paragraph">Vá para a visualização *Novidades* no painel do Partner Central para ver um feed de novas atualizações, vídeos de instruções e informações sobre a integridade dos seus serviços.</block>
+  <block id="38332dc0c3ca19f4fc3fc46728002c03" category="inline-image-macro">o que há de novo</block>
+  <block id="4758080db72f761bca56b7d6d4576c94" category="paragraph"><block ref="4758080db72f761bca56b7d6d4576c94" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8406a3eb7eb4eb3545d06adeb2ffe3c5" category="summary">No SaaS Backup Partner Central, a tela *Estatísticas* mostra estatísticas em várias categorias para ajudá-lo a gerenciar seu SaaS Backup para clientes Microsoft 365.</block>
+  <block id="c33e404a441c6ba9648f88af3c68a1ca" category="doc">Estatísticas</block>
+  <block id="a7a802422882fa27c6c48d8c3fa48a13" category="paragraph">No SaaS Backup Partner Central, a exibição *Estatísticas* mostra estatísticas para ajudá-lo a gerenciar seu SaaS Backup para clientes Microsoft 365.</block>
+  <block id="2b5f61cbdbebe3605c11d7b6e63ed695" category="paragraph">As estatísticas numéricas aparecem para o seguinte:</block>
+  <block id="049365e1f7c8ee3fb0675fb91c472548" category="list-text">*Clientes licenciados*</block>
+  <block id="8fbb0da39dce1d1e7febe0534518d15c" category="list-text">*Avaliações (clientes)*</block>
+  <block id="e0909a6ee021401b1580195b73449f1e" category="list-text">*Empregos ativos*</block>
+  <block id="052311902605573af36ad4c93a975e4c" category="list-text">*Exportar trabalhos*</block>
+  <block id="8309c46c49390f3f776c758c908022ed" category="list-text">*Usuários protegidos*</block>
+  <block id="ab84edd66b924a46250d9d44f205d56a" category="list-text">*Restaurar trabalhos*</block>
+  <block id="2e7492c21c2f6eab9acebb1937264992" category="list-text">*Total de clientes*</block>
+  <block id="a284c77e0d42f7d3165c3f26c75ac589" category="list-text">*Total de empregos*</block>
+  <block id="bc9c8604e1b2eafa13d9f9d9a2fb7174" category="inline-image-macro">estatísticas numéricas</block>
+  <block id="2c1bdf3031b0c7155a99dfd0e43c9c34" category="paragraph"><block ref="2c1bdf3031b0c7155a99dfd0e43c9c34" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8fd25c8b3575e9d25c72ac0110c46477" category="paragraph">As estatísticas gráficas aparecem para o seguinte:</block>
+  <block id="42a97ae0de834221cf3ec94c0045f1c1" category="list-text">*Clientes*</block>
+  <block id="ecac10bc87d9557f64906694680e0cb4" category="list-text">*Empregos*</block>
+  <block id="5e7be6d03d7b3fe38948144b583c0328" category="inline-image-macro">estatísticas gráficas</block>
+  <block id="602f092c2d9838be5216db05e74ddc1f" category="paragraph"><block ref="602f092c2d9838be5216db05e74ddc1f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2f2cdfaae11387cf447edda4e8b53a03" category="summary">Você pode adicionar e gerenciar seus clientes no SaaS Backup Partner Central.</block>
+  <block id="1c5f859d60bac24aa56f41c122c66ccb" category="doc">Adicione, exclua e gerencie clientes</block>
+  <block id="567d391229108ec1470ec569d0d69313" category="paragraph">Você pode adicionar e excluir clientes no SaaS Backup Partner Central. Para gerenciar dados de clientes, você usará a interface de usuário do SaaS Backup para Microsoft 365.</block>
+  <block id="1bc5c06c250f22dc2b56f7e43b32f6b0" category="paragraph">Se você quiser adicionar um locatário existente do SaaS Backup para Microsoft 365 à Central de parceiros, entre em Contato com o suporte de backup do SaaS em saasbackupsupport at NetApp.com.</block>
+  <block id="7d2d723512484c4082ec3a3475915416" category="section-title">Adicione um cliente</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Passos</block>
+  <block id="91de33d9eae5dc33f31046620e575e25" category="list-text">No painel, clique em *Clientes* à esquerda.</block>
+  <block id="d55fe1b20d9a542c91557b02ec7c7298" category="inline-image-macro">visualização do cliente do painel de instrumentos</block>
+  <block id="69069b8ce91665cb447a8ce2801e3a05" category="paragraph"><block ref="69069b8ce91665cb447a8ce2801e3a05" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="680df6bfbb96f506daed2853e34852f9" category="inline-image-macro">adicionar ícone de cliente</block>
+  <block id="e1afa328c29b48386b0ac78830e45bfa" category="list-text">Na tela *Lista de clientes*, clique <block ref="7f054edb3b112dca13f9fae0ee22109d" category="inline-image-macro-rx" type="image"></block> para adicionar um novo cliente.</block>
+  <block id="6adfa1832b1c984770e72909029631f4" category="inline-image-macro">ecrã adicionar cliente</block>
+  <block id="2fe92bd396c5de7c4af5361885e3272c" category="paragraph"><block ref="2fe92bd396c5de7c4af5361885e3272c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6881b727848bbdcff08ae2244ef65bc7" category="list-text">Na janela pop-up, clique no ícone do Office 365 para criar uma nova assinatura de cliente.</block>
+  <block id="d4b054cb8a72b73b319023d60222ecb8" category="list-text">Introduza o endereço de correio eletrónico e a palavra-passe da sua conta de serviço de administrador global do Microsoft 365 e, em seguida, clique em *Iniciar sessão*.</block>
+  <block id="b22619f5adbc677457edab92a9eb7d1b" category="list-text">Uma lista das permissões solicitadas pelo SaaS Backup para Microsoft 365 é exibida. Clique em *aceitar*.</block>
+  <block id="7104882c009110b9584f53d54d9581e6" category="inline-image-macro">adicionar ícone</block>
+  <block id="40947ae6b3a2c083aca2a6717d78f1de" category="list-text">De volta à Central de parceiros, clique <block ref="744ace9822aa2af1d8a882e2d7b91f49" category="inline-image-macro-rx" type="image"></block>em *Ação* na *Lista de Clientes* para concluir *Inscrição de Clientes*.</block>
+  <block id="731c589b23b6f4947159044ca270e985" category="inline-image-macro">clique no ícone adicionar para concluir a inscrição do cliente</block>
+  <block id="6e9e8c237105f4e0d511f251ee8faa00" category="paragraph"><block ref="6e9e8c237105f4e0d511f251ee8faa00" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="183a922f9c99c146568fa3a722e97f1b" category="list-text">Introduza as informações do utilizador solicitadas.</block>
+  <block id="b7d237fc31f325c5817f87155079b5c1" category="inline-image-macro">concluir a inscrição do cliente</block>
+  <block id="bfa99f4839375bca3578f8d4243c829f" category="paragraph"><block ref="bfa99f4839375bca3578f8d4243c829f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1137803a941291b1e76d449aba8a1fd3" category="list-text">Selecionar tipo de subscrição:</block>
+  <block id="8020afffa54c37aedc1d1e817e13aa9d" category="list-text">Se esta for uma subscrição de teste, introduza o código de ativação.</block>
+  <block id="51987e7331177af2cd295c60ab493dba" category="list-text">Se esta for uma assinatura licenciada, insira o SSO do NetApp e o número de série do produto.</block>
+  <block id="ea04f170eccaff23015594c6779ba4fa" category="list-text">Selecione seu armazenamento em *seleção de armazenamento*.</block>
+  <block id="97ef2a6f38b08daaafece4907f7c83ad" category="paragraph">Se você estiver usando um storage fornecido pelo SaaS Backup:</block>
+  <block id="162f1fc477521302ac776a4ae3959949" category="list-text">Clique em *SaaS Backup provided Storage*.</block>
+  <block id="4df443d6d7bf567253cafecb4fcd0872" category="list-text">Selecione a     opção de armazenamento *Amazon S3* ou *Azure Blob*.</block>
+  <block id="76af2b16db3a846582a8a032706d3035" category="list-text">Selecione a     região *AWS S3* ou *Azure Blob* para seu backup. Você deve selecionar a região que é a mais próxima da localização física dos dados que você está fazendo backup.</block>
+  <block id="2e1dad6e24adad122399a2583fbcf048" category="list-text">Clique em *criar*. Uma atualização de status aparece no lado direito, que diz "Registro de cliente em andamento". Quando a atualização de status for concluída, o status mudará para "Registro do cliente concluído" e o status se tornará Ativo.</block>
+  <block id="625d7536f7f37edbe36ac157416d331a" category="section-title">Eliminar um cliente</block>
+  <block id="5f11c7889df3330ff1f653f5e5702931" category="inline-image-macro">eliminar ícone</block>
+  <block id="b44d06e85a3730aea979e26ad4c5fefd" category="list-text">Encontre o cliente que deseja excluir na lista de clientes. Clique <block ref="3397c2f221ca34be0b19b2ceade18ba3" category="inline-image-macro-rx" type="image"></block> em para eliminar o cliente.</block>
+  <block id="7b36e9bf3c114f06aa5a8685a6e1e459" category="inline-image-macro">eliminar cliente</block>
+  <block id="30462d915bc4aaabd259816f27301fda" category="paragraph"><block ref="30462d915bc4aaabd259816f27301fda" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8d3d7f059960c67459984ab0a009af61" category="section-title">Gerenciar dados do cliente</block>
+  <block id="fa8d15d767ba435df151b4ba22d51bf7" category="paragraph">Depois de adicionar novos clientes, você poderá exibir os detalhes do cliente, como nome do cliente, status e número total de trabalhos no painel na Central de parceiros.</block>
+  <block id="f5ee9c2c59a7d17ebb0e628bc6462d0f" category="inline-image-macro">visualização do painel de instrumentos dos clientes</block>
+  <block id="bfd1fa440ffdd4192c195b9235536ee9" category="paragraph"><block ref="bfd1fa440ffdd4192c195b9235536ee9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3401d336f5cb21529ff894bb04167eab" category="paragraph">Para gerenciar dados de clientes, você usará a interface de usuário do SaaS Backup para Microsoft 365.</block>
+  <block id="c2dcb4521968f694a4bdbdfa883788a2" category="inline-image-macro">ícone de retorno</block>
+  <block id="c630aa3641d305477122baabad962c4b" category="list-text">Clique <block ref="6e130934aba6dd2600627177c5c2cb47" category="inline-image-macro-rx" type="image"></block> para redirecionar para a interface de usuário do SaaS Backup para Microsoft 365 para gerenciar os dados do cliente.</block>
+  <block id="4f8955fe2ec9a7f21af6e897ddaa0d4a" category="inline-image-macro">Redirecione para o SaaS Backup para Microsoft 365</block>
+  <block id="ad42c630fe1dd11ff7a471af88e3b1d6" category="paragraph"><block ref="ad42c630fe1dd11ff7a471af88e3b1d6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="23cd93610689ab0c931387bb3bd58775" category="paragraph">Para retornar à Central de parceiros, clique em *Central de parceiros* sob o nome do cliente no lado esquerdo da interface de usuário do SaaS Backup para Microsoft 365.</block>
+  <block id="fb6eab5addcf4b8d8a6ec8831df72efd" category="inline-image-macro">Retornar para Partner Central</block>
+  <block id="f35d3285594f4748c416922780f7d1d3" category="paragraph"><block ref="f35d3285594f4748c416922780f7d1d3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="545a07adef077708e0796b9bd8491fe4" category="inline-link-macro">Documentação on-line do NetApp SaaS Backup para Microsoft 365</block>
+  <block id="dbcb5783ba4612e26d0458de7a77eb85" category="paragraph">Para obter informações sobre como usar o SaaS Backup para Microsoft 365, <block ref="fc0d6ef83f94ffbc6e2d26f334e24274" category="inline-link-macro-rx"></block>acesse .</block>
+  <block id="6ef1a425977ae7f0b4aa9807d8a6948e" category="summary">Na Partner Central, você pode gerar relatórios de uso de licença, uso de storage, estatísticas de trabalhos, atividade, auditorias e renovações.</block>
+  <block id="0a20f8ab3f14dc5cfec9c5570a7bc665" category="doc">Gerar relatórios</block>
+  <block id="5fa73db7f95cea2851a687a0e525bbd2" category="paragraph">No SaaS Backup Partner Central, você gera relatórios para uso de licença, uso de storage, estatísticas de trabalhos, atividade, auditorias e renovações.</block>
+  <block id="362aed61d58dcba8e41e6c3eb52a8537" category="list-text">No painel, clique em *relatórios* à esquerda.</block>
+  <block id="850403fd8108c17212638f33d35860c0" category="inline-image-macro">página de relatórios</block>
+  <block id="8ad6a271b90ab5e88d2355fe14a99d0e" category="paragraph"><block ref="8ad6a271b90ab5e88d2355fe14a99d0e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2331f55ce6005498a04b4ad808b41088" category="list-text">Selecione a categoria para a qual deseja gerar um relatório.</block>
+  <block id="3b626e056bf70496307463be1bd8bdbe" category="list-text">*Uso da Licença*</block>
+  <block id="a792ac3c8fa8ea3db701d5bc1225c27e" category="list-text">*Uso de armazenamento*</block>
+  <block id="09a62f9c63ec4fde28fd7f2500c7b885" category="list-text">*Estatísticas do trabalho*</block>
+  <block id="29061c4d823c21f83e62e367550c8389" category="list-text">*Relatório de atividades*</block>
+  <block id="55f7392fa5cc8b1a20f9eb78e6b1f9de" category="list-text">*Relatório de Auditoria*</block>
+  <block id="0f77c9d4026a1e87079823dd814289d4" category="list-text">*Relatório de renovação*</block>
+  <block id="a7fdad31e918ca755cdc1c3e5eee6e98" category="list-text">Clique em *Generate* sob a categoria. Os relatórios são gerados em formato CSV.</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">Você pode adicionar e gerenciar chaves para maior segurança no Partner Central.</block>
+  <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">Gerenciar chaves</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">Você pode adicionar e gerenciar chaves para maior segurança na Central de parceiros a partir da configuração *Key Management*.</block>
+  <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">Adicionar teclas</block>
+  <block id="e764def590791cf4cdcf76be35dc41af" category="inline-image-macro">ícone de definições</block>
+  <block id="83f10fc8f41778740afb2d99d851c6a9" category="list-text">No painel, clique <block ref="af84445977eda1f857a54475e4db9fc6" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">Selecione *Key Management* no menu suspenso.</block>
+  <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">gerenciamento de chaves do menu suspenso configurações</block>
+  <block id="cbc80748ca5e02b8edcbb0accdd758ac" category="paragraph"><block ref="cbc80748ca5e02b8edcbb0accdd758ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="db0c6344cb515d3e079bf201b6f61f66" category="inline-image-macro">adicionar ícone de chave</block>
+  <block id="ae0abb06791089c89fc15c1c37f78f31" category="list-text">Para adicionar uma chave, clique <block ref="6f4201a5da68519dea18c828bf9b69bd" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="3a20ce18dd185ad85f3e35fed834abf1" category="inline-image-macro">ecrã de gestão de chaves</block>
+  <block id="05b5a35e21441f33f1a0994efb95c8ce" category="paragraph"><block ref="05b5a35e21441f33f1a0994efb95c8ce" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6342a6c7ff458a19b65b16267552ca57" category="list-text">Em *Add Key*, faça o seguinte:</block>
+  <block id="c7358ca4e636c76e39a54b5adc9b9cb9" category="inline-image-macro">ecrã add key (adicionar chave)</block>
+  <block id="0bf4939b794662059414bba2baa00737" category="paragraph"><block ref="0bf4939b794662059414bba2baa00737" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bf3065869964936aaa68f8eff5fc7c2e" category="list-text">Selecione o utilizador.</block>
+  <block id="7ecffce80cc65be8a35cfaaaf9c785df" category="list-text">Adicione uma descrição.</block>
+  <block id="4fbdf54ffbbae3fcd9e72333988208a4" category="list-text">Selecione Expiry (expiração)</block>
+  <block id="c101bffe92c100594eb2a6f1067cbb16" category="list-text">Clique em *Add*. Uma caixa aparece com a mensagem "gerou a chave com êxito".</block>
+  <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">mostrar ícone de chave</block>
+  <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">ocultar ícone de chave</block>
+  <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">Clique <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> para mostrar a chave não encriptada e clique <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> para ocultar a chave não encriptada.</block>
+  <block id="85419baaef35c65c10cd7fc01ff8d8e2" category="summary">No SaaS Backup Partner Central, você pode adicionar, modificar e excluir notificações para diferentes usuários.</block>
+  <block id="1b799238211a6924f3bc70f0d21bb243" category="doc">Gerenciar notificações</block>
+  <block id="11d6e507bd9501050250f5cda638bb12" category="paragraph">Pode ativar ou desativar as seguintes notificações:</block>
+  <block id="10b868dcddadc540ab7dfb25f02678e4" category="list-text">Adicionar usuário à função</block>
+  <block id="6dbb244b049e3aa95e905ae7ed3ad6e3" category="list-text">Sucesso na eliminação do cliente</block>
+  <block id="0eebfa9f56bd6bae00baf48279033b57" category="list-text">Sucesso a bordo do cliente</block>
+  <block id="45fa99ecc77a6925bdd7245ed26b852d" category="list-text">Falha na eliminação do cliente</block>
+  <block id="576ab7907f821d9416509c319abbb379" category="list-text">Falha de integração do cliente</block>
+  <block id="394ebe58da4bde523fb655aac9d4c308" category="list-text">Selecione *notificações* no menu suspenso.</block>
+  <block id="028c52374df3ee4ae6e8d590bf6fc0b5" category="inline-image-macro">menu suspenso configurações selecione notificações</block>
+  <block id="f6f2ab8ecc6574ef778b858a68caf5ca" category="paragraph"><block ref="f6f2ab8ecc6574ef778b858a68caf5ca" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a910a271bd2138433e52f1b9a2fe0643" category="list-text">Em *Notification Management*, você pode adicionar, modificar e excluir notificações.</block>
+  <block id="aa09a0ecd252f9faef1d681d1d7dbe4d" category="inline-image-macro">ecrã de gestão de notificações</block>
+  <block id="fa207f1a09c67d63ad7297a49071f153" category="paragraph"><block ref="fa207f1a09c67d63ad7297a49071f153" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0ad9f25d9f8184c0691fe9d58899ef5d" category="inline-image-macro">adicionar ícone de notificação</block>
+  <block id="b239edec484dfc273f453c75f5577c97" category="list-text">Para adicionar notificações, clique <block ref="220811ed6600502a3abfe7154313791c" category="inline-image-macro-rx" type="image"></block> para adicionar notificações a um utilizador.</block>
+  <block id="f5beb169b946a802a1c792fa686b5d16" category="paragraph">Em *Adicionar notificação*, insira o endereço de e-mail do usuário. Selecione notificações que deseja ativar e clique em *Adicionar*.</block>
+  <block id="5747fc79ee23adae38f0d16ed483aabe" category="inline-image-macro">personalizar notificações</block>
+  <block id="4a0150a7fb21124b3129b0a342d0d7c2" category="paragraph"><block ref="4a0150a7fb21124b3129b0a342d0d7c2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f86fcaaecd18bb5b840cecfe55df6dc" category="inline-image-macro">ícone de lápis</block>
+  <block id="c44ce6c18468e70c7fde5f6f5443cc3b" category="list-text">Para modificar notificações, clique <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="b251cd3cfccee18ac398d4e7ec17a627" category="list-text">Para excluir notificações, clique <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="95fbc7fae03c5958796ccfe1e17c2188" category="summary">Você pode modificar, adicionar e atribuir diferentes funções de usuário no SaaS Backup Partner Central.</block>
+  <block id="19f1799814a50fc19daad0ce851f2b34" category="doc">Gerenciar funções</block>
+  <block id="dec256c2ef2cae867b7bc9cd2ad8a1fb" category="paragraph">No SaaS Backup Partner Central, você pode modificar, adicionar e atribuir diferentes funções de usuário.</block>
+  <block id="04b0c5c75df205fcad139dbd1502302c" category="paragraph">O e-mail padrão em *Role Management* é o e-mail do parceiro.</block>
+  <block id="f02a76538edb1d69389dfa8798b9a34d" category="list-text">Selecione *Gerenciamento de função* no menu suspenso.</block>
+  <block id="e451b2a978a56c527536b173c027e053" category="inline-image-macro">menu suspenso configurações selecione gerenciamento de função</block>
+  <block id="d1783fc36fc48be3f309d9ed28c116b3" category="paragraph"><block ref="d1783fc36fc48be3f309d9ed28c116b3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1781d870f61439bdb2d4a63f9f436a73" category="list-text">Em *Role Management*, você pode adicionar, modificar e excluir funções.</block>
+  <block id="ab3d8986363bb68bf8077930561e8609" category="inline-image-macro">ecrã de gestão de funções</block>
+  <block id="6e2496b01be8b61f61e4839f736742ce" category="paragraph"><block ref="6e2496b01be8b61f61e4839f736742ce" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="41bf31365b68994d692e3c95d6906259" category="list-text">Para adicionar um usuário, clique <block ref="573e344bf1a396d1ad86f7dd57c31100" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="5f6583d2296b94c8bff1df813d5b80e3" category="paragraph">Em *Adicionar usuário*, insira as informações solicitadas.</block>
+  <block id="b8363556b2a02fb7bc88f4455839e111" category="inline-image-macro">ecrã add user role management (adicionar função do utilizador)</block>
+  <block id="db712324134edec57f36c93974f19d60" category="paragraph"><block ref="db712324134edec57f36c93974f19d60" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="577dfcc9bb54fa6779d9758044176566" category="list-text">Selecione a função para o utilizador.</block>
+  <block id="6be8dec4b765351c65ee4174e1ae7210" category="list-text">*Admin de parceiros globais*: Pode criar outros parceiros globais e tem controle total de todas as funções.</block>
+  <block id="a96595165098f1fa3d46f2f997fe95a0" category="list-text">*Admin completo*: Tem controle total de todas as funções, exceto parceiros globais.</block>
+  <block id="3150041c64d69a098294e6d7683d43ad" category="list-text">*Config Admin*: Pode adicionar e excluir clientes.</block>
+  <block id="dd3a8880e867a3ac93b3cd50d72c1dee" category="list-text">Para modificar a função de um usuário, clique <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="e5dea6b15e24231a11c6baaefc9a5e44" category="list-text">Para excluir um usuário, clique <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>em .</block>
+  <block id="2e1408437bfb2755f1660ba4e5e5c374" category="summary">Você pode monitorar tarefas de backup, sincronização e restauração do SaaS Backup para Microsoft 365 para seus clientes no SaaS Backup Partner Central.</block>
+  <block id="a5d57b9df3c2b3466f1f07ed148a4e14" category="doc">Monitorar os trabalhos do cliente</block>
+  <block id="715c2ec34bedd919ed6b24e9e5a5be8e" category="paragraph">Você pode monitorar tarefas de backup, sincronização e restauração para seus clientes do SaaS Backup para Microsoft 365 no SaaS Backup Partner Central.</block>
+  <block id="1c391ce62c1fd3e0853b5045c1e19a03" category="list-text">No painel, clique em *Monitoramento*.</block>
+  <block id="ac1a66ffc833e301cc5ff2b337ac7fba" category="inline-image-macro">página de monitorização</block>
+  <block id="424497c862b5207241d976fcfd2fdf7a" category="paragraph"><block ref="424497c862b5207241d976fcfd2fdf7a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cdb16863670a0576bd86ce9f53a87273" category="paragraph">Em *Monitoramento*, você pode ver o histórico de tarefas de seus clientes em duas guias separadas: *Trabalhos em execução* e *trabalhos concluídos*.</block>
+  <block id="7f901e99e13c2d0e72f89cf43c0f7d5a" category="list-text">Pode filtrar *trabalhos em execução* e *trabalhos concluídos* por tipo de tarefa, tipo de serviço, nome de domínio e estado.</block>
+  <block id="296d9904fe6e7d4e26a6563cc180bb97" category="list-text">Para filtrar por tipo de tarefa, clique em *filtro* em *tipo de tarefa* e selecione o tipo de tarefa.</block>
+  <block id="304a99f6674db4ebf59826d0394f5d65" category="inline-image-macro">filtrar por tipo de tarefa</block>
+  <block id="7e2fc34093ca258fa8825f193b8f0090" category="paragraph"><block ref="7e2fc34093ca258fa8825f193b8f0090" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1dceec4f0dde6b226d2ebb522d75f4d8" category="paragraph">* Agora * os tipos de trabalho referem-se a trabalhos sob demanda.</block>
+  <block id="cc099b9e972c5e8555456c56d5c13eb1" category="list-text">Para filtrar por tipo de serviço, clique em *filtro* em *tipo de serviço* e selecione o serviço.</block>
+  <block id="6d71a0e3fba05454dd2180890bf7963b" category="paragraph">Selecione o serviço:</block>
+  <block id="3cec94f2c3f7bd13aed2488dadd12834" category="list-text">Exchange Online</block>
+  <block id="2950e5d428cbc3f55c7aec75694f130a" category="list-text">OneDrive for Business</block>
+  <block id="27bafb3855ae4ca3df676518f2aaad5a" category="list-text">SharePoint Online</block>
+  <block id="b48d0ddc83fead4eb625c684db35f9b2" category="list-text">Grupos do Office 365</block>
+  <block id="952b54717a5203b7610b5553226a1ebe" category="list-text">Para filtrar por cliente, clique em *Filtrar* em *Nome de domínio* e selecione ou pesquise o domínio do cliente.</block>
+  <block id="cfea7e40d918319588ec57d920498890" category="inline-image-macro">filtrar por domínio do cliente</block>
+  <block id="a022efb82ad52fadc3a13ccb57e967bd" category="paragraph"><block ref="a022efb82ad52fadc3a13ccb57e967bd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="68da71bfced41ca5bcdf647f96930cb4" category="list-text">Para filtrar por status, clique em *Filtrar* em *Status* e selecione o status.</block>
+  <block id="40b8b1113174bd73d24e17028a714abd" category="inline-image-macro">filtrar por status do trabalho</block>
+  <block id="66780f1cc75f32493d2086c19aab9fdd" category="paragraph"><block ref="66780f1cc75f32493d2086c19aab9fdd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="15f9ee239f9ae142c06591f58934b1db" category="summary">Você pode se Registrar como parceiro e começar a adicionar e gerenciar clientes na interface do Partner Central.</block>
+  <block id="39259c470f5b8c0975165d1822052c37" category="doc">Inscreva-se na Central de parceiros de backup SaaS da NetApp</block>
+  <block id="0cd7c2688e1916155c330e8a43bd6b24" category="paragraph">Na Central de parceiros de backup SaaS da NetApp, você pode se Registrar como parceiro. Depois de se Registrar, você pode começar a adicionar e gerenciar clientes na interface.</block>
+  <block id="00c5af5d165f8b8558d798eb449eaec0" category="inline-link-macro">Central do parceiro SaaS Backup</block>
+  <block id="78ee2f4843b98a09fc47ce3a8406f664" category="list-text">Vá para <block ref="5287b8b6894a4e58daacca88d14d474b" category="inline-link-macro-rx"></block>.</block>
+  <block id="85614a1653de2b4b92c16c0f722b4d05" category="inline-image-macro">Página de login do Partner Central</block>
+  <block id="7b55ec64de5cff1fea0e74db95d9b736" category="paragraph"><block ref="7b55ec64de5cff1fea0e74db95d9b736" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4c0c0dff556eaa9b8bb9dbc866d8d728" category="list-text">Selecione sua região no menu suspenso. A região padrão é os EUA.</block>
+  <block id="5240cad2aea33b1c88320a6e7a0c78ef" category="list-text">Para se inscrever, leia e concorde com os *termos de Serviços*.</block>
+  <block id="49543e6ca1b5c40fc191d4a4030f5e13" category="list-text">Clique em *NetApp SSO*.</block>
+  <block id="7270bdbe561545be71900f7287f54863" category="list-text">Na página de login do NetApp, entre com suas credenciais SSO do NetApp.</block>
+  <block id="d908fb2a11fda104dc60600e0dd5271a" category="list-text">Introduza as informações de registo solicitadas. Para solicitar um código de ativação, entre em Contato com o gerenciamento de produtos SaaS Backup.</block>
+  <block id="139f45b47f9daef5a0a4ce91311a0f17" category="inline-image-macro">página de registo</block>
+  <block id="c26c724056b7eefe0f611b91b3a77bc9" category="paragraph"><block ref="c26c724056b7eefe0f611b91b3a77bc9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">Clique em *Register*.</block>
+  <block id="2ac9b834f6348b72970d659f84684c20" category="sidebar">Central de parceiros</block>
+  <block id="7ecd0726b721e17d74d280fdd93e49f8" category="sidebar">Gerar relatórios</block>
+  <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">Gerir definições</block>
+  <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">Gerenciar chaves</block>
+  <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">Onde obter ajuda e encontrar informações</block>
+</blocks>

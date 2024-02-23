@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+keywords: saas backup, partner central, partners, microsoft 365, documentation, new, get started, provide feedback, get help, find, information 
+summary: Bem-vindo ao portal de documentação da Central de parceiros do NetApp SaaS Backup. 
+---
+= Documentação da Central de parceiros de backup SaaS da NetApp
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+A Central de parceiros de Backup SaaS da NetApp é uma interface que ajuda os parceiros da NetApp a gerenciar e oferecer suporte a clientes que usam o SaaS Backup para Microsoft 365. Ele fornece etapas para se Registrar na Central de parceiros, gerenciar seus clientes e fazer modificações nas configurações e nas informações do parceiro e do cliente.
+
+
+
+== Descubra as novidades
+
+* link:partnercentral_reference_new.html["Notas de lançamento"]
+* Para obter atualizações de produtos, vídeos de instruções e informações sobre a integridade dos seus serviços, acesse a visualização do painel *Novidades*.
++
+image:whats_new.png["Partner Central *Novidades*"]
+
+
+
+
+
+== Comece agora
+
+* link:partnercentral_task_register.html["Inscreva-se no Partner Central"]
+* link:partnercentral_task_add_and_manage_customers.html["Adicione e gerencie clientes"]
+
+
+
+
+== Obtenha ajuda, encontre mais informações e forneça feedback
+
+* Para obter acesso a diferentes recursos de suporte, acesse *suporte* na interface de usuário do Partner Central.
++
+image:support_page.png["Página de suporte"]
+
++
+A página *suporte* fornece acesso a artigos *base de dados de Conhecimento*, *Comunidades*, *Manual do Usuário* para SaaS Backup para Microsoft 365 e *Centro de confiabilidade*. Você também pode fornecer feedback e fazer perguntas se selecionar *Contacte-nos*.
+
+* link:https://cloud.netapp.com/saas-backup["Página de produto para SaaS Backup para Microsoft 365"]
+* link:https://docs.netapp.com/us-en/saasbackupO365/["Documentação do usuário do SaaS Backup para Microsoft 365"]
+
